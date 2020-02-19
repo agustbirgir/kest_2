@@ -1,4 +1,4 @@
-#verkefni 1
+# verkefni 1
 
 ### 10.3.1.1 Lab - Windows Installation
 
@@ -34,7 +34,16 @@ Engin spurning
 * What are the available options in the Taskbar settings
   *  you can hide the taskbar, lock the taskbar and move the taskbar
 * What are the available options in the Task View settings
-  * when you click 
+  * when you click on tassk view you will see all windows open in one screen
+* The Notification area on the right edge of the Taskbar provides system information.
+List some examples of system information below
+  * see the network, go to settings and turn, airplane mode status and more
+* What are the behavior options for the icons
+  * you can turn off all icons or choose wich icon ti appear
+* Click Turn system icons on or off. List the system icons that can be enabled
+  * clock, volume, network, power, input indicator, location, action center, touch keyboard, windows ink workspace, touchpad and microphone
+* What can you do in the Notification & actions Settings window
+  * change icon and remove icon, lower the brightness, select icon and see the battery
 
 ### 11.1.3.4 Lab - Work with Task Manager eg
 
