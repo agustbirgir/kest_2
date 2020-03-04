@@ -117,6 +117,27 @@ why would it be grayed out
 ### 11.3.2.7 Lab - System Utilities gummi
 
 ### 11.3.2.8 Lab - Manage System Files agust
+#### þetta er gert i fartölvu
+* Under the System Summary heading locate and list the following
+  * processor
+    *  intel core i7 6700HQ
+  * BIOS/version date
+    * lenovo CDCN53 WW 19-sep-16
+  * Total Physical Memory
+    * 15.8 GB
+* Under the Hardware Resources heading, locate and list the following:
+  * DMA channels and the device using the resources.
+    * biða
+* Under the Components heading locate and list the following
+  * Adapter Description:
+    * NVidia geforce 960 M
+  * Adapter RAM:
+    * 1,048,576 bytes
+* Under the Software Environment heading, where would you find the applications that automatically load
+when the computer boots?
+  * in startup programs
+
+
 
 ### 11.4.1.5 Lab - Work in the Windows Command Shell elvar
 
