@@ -19,11 +19,11 @@ Engin spurning
 * What is the current BIOS version available for the motherboard
   * geri á föstudaginn
 
-### 3.1.2.7 Lab - Install Third-Party Software in Windows Elvar
+### 3.1.2.7 Lab - Install Third-Party Software in Windows
  * Sleppa spurningu 1
   * Spurning 2 = þeir vilja að þú gerir það frekar svo að þú eyðir líka öllum related files ekki bara appinu
 
-### 10.2.1.8 Lab - Create a Partition in Windows Gummi
+### 10.2.1.8 Lab - Create a Partition in Windows
 *  What type of File System is used on the NEW VOLUME (I:)?
   * FAT32
 * How much Free Space is shown?
@@ -67,7 +67,7 @@ Engin spurning
   * Security
 * Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
   * Svo að þú getir breitt permissions á skjölum og möppum
-### 11.1.2.10 Lab - Explore the Windows Desktop agust
+### 11.1.2.10 Lab - Explore the Windows Desktop
 * List some of the icons that are on the Desktop
   * persónulegar möppur, ruslafata, forrit, leikir og  fleira
 * What type of information is available on the Desktop and Taskbar
@@ -90,7 +90,7 @@ List some examples of system information below
 * What can you do in the Notification & actions Settings window
   * change icon and remove icon, lower the brightness, select icon and see the battery
 
-### 11.1.3.4 Lab - Work with Task Manager eg
+### 11.1.3.4 Lab - Work with Task Manager
 * What happens when you force close a web browser?
     * það leyfir þér að loka öllum file'um sem eru unresponsive eða responsive og líka leyfir þér að loka öppum sem eru frosin. og það         bara force lokar þeim
   * What options are when you Right-click the web browser in the Task Manager?
@@ -151,7 +151,7 @@ List some examples of system information below
       * Disconnect
       * Manage User Account
 
-### 11.1.4.11 Lab - Working with File Explorer gummi
+### 11.1.4.11 Lab - Working with File Explorer
 * What happened with Folder1 and Folder2 on the Desktop?
   * Folder1 and Folder2 byrtust á Desktop
 * What is the file extension for the text document?
@@ -178,7 +178,7 @@ List some examples of system information below
   * Documents, Music, Pictures, Videos
 * How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
   * Ferð í Library Tools, velur Folder1 og ýtir á Remove
-### 11.2.1.5 Lab - Explore Control Panel Categories agust
+### 11.2.1.5 Lab - Explore Control Panel Categories
  * What are the viewing options
    * þar getur þu breytt hvort þu vilt fá allt i gategory, stækka myndinar og minnka þá
  * Select the Categories view as necessary.
@@ -223,20 +223,20 @@ Internet
  * Which subcategory would you use to improve the computer’s ability to understand your voice and improve the dictation accuracy
    * go to Speech Recognition and click start Speech Recogntion and follow through those steps.
 
-### 11.2.2.3 Lab - User Accounts Eg
+### 11.2.2.3 Lab - User Accounts
  * Það eru nokkrar spurningar sem eg get ekki svarað eins og að breyta hlutum um accounta sem var breytt i windows 10 spurningarnar eru fyrir windows 7 og 8
   * What is the advantage of having most users work within a Standard user account?
    	* Standard userar geta ekki breytt neinu sem hefur áhryf á alla tölvuna eins og breyta security
   * For this lab, select Delete Files. What are the other options? When would you choose the other options?
     * Það eru engin options
 
-### 11.2.5.8 Lab - Manage Virtual Memory Gummi
+### 11.2.5.8 Lab - Manage Virtual Memory
 * What is the current size of the virtual memory (paging file)?
   * 4GB
 * What Drive [Volume Label] contains the paging file?
   * 
 
-### 11.2.6.2 Lab - Use Device Manager agust
+### 11.2.6.2 Lab - Use Device Manager
 * What information is listed in the Device Manager window? Why would you use it
   * device manager is mostly to send info for you about what is inside the computer. you would propably use it to see if you have some troucle with a hard drive or other
 * What additional information does Driver Details provide
@@ -250,7 +250,7 @@ why would it be grayed out
   * disable the device and unistall the device
 
 
-### 11.3.1.11 Lab - Monitor and Manage System Resources Elvar
+### 11.3.1.11 Lab - Monitor and Manage System Resources
 * What is the status of the Defender Antivirus Network Inspection Service?
     * Running
   * Record the Windows Defender status after turning windows virus protector off.
@@ -277,11 +277,11 @@ why would it be grayed out
      * get ekki opnað hana rétt eg get ekki breytt formatinu og ég þarf .csv og eg er með .blg
 
 
-### 11.3.2.7 Lab - System Utilities gummi
+### 11.3.2.7 Lab - System Utilities
 * What was the path you use to navigate to the Event Viewer?
   * [Console Root\Management Tools\Computer Manegement (local)\System Tools\Event Viewer]
 
-### 11.3.2.8 Lab - Manage System Files agust
+### 11.3.2.8 Lab - Manage System Files
 #### þetta er gert i fartölvu
 * Under the System Summary heading locate and list the following
   * processor
@@ -323,7 +323,7 @@ when the computer boots?
 
 
 
-### 11.4.1.5 Lab - Work in the Windows Command Shell elvar
+### 11.4.1.5 Lab - Work in the Windows Command Shell
  * To see the next page, press the spacebar. What happens when you press enter?
     * þú færð bara eina línu í einu
   * fill out the functions of the following commands:
@@ -355,7 +355,7 @@ C:\Users\ITEUser?
     * Press up arrow to display the last command used.
       * CLS
 
-### 11.4.2.7 Lab - File System Commands gummi
+### 11.4.2.7 Lab - File System Commands
 * What is the current directory?
   *C:\Users\Elias og Steinthor
 * Which folder are you in now?
@@ -377,7 +377,7 @@ C:\Users\ITEUser?
 * What are the advantages of using CLI vs. GUI?
   * Það er hægt að geyra mikið meira mun aupveldara í CLI en það er mun auðveldara að skilja og sjá hvað er verið að gera með GUI
 
-### 11.4.3.2 Lab - Disk CLI Commands agust
+### 11.4.3.2 Lab - Disk CLI Commands
  * What is the option to fix errors on the drive
    * type chkdsk /F
  * What is the option to locate bad sectors and recover readable information
@@ -390,7 +390,7 @@ C:\Users\ITEUser?
    * it depends on how much space you have on your disk
  
 
-### 11.4.4.2 Lab - Task and System CLI Commands eg
+### 11.4.4.2 Lab - Task and System CLI Commands
 * What command would you use to display the results of tasklist one page at a time?
     * tasklist | more
   * What is the option to list the modules that are associated with a task?
@@ -412,7 +412,7 @@ and 40 minutes?
   * What command would you use to abort the shutdown?
     * shutdown /a
 
-### 11.4.5.3 Lab - Other Useful Commands gummi
+### 11.4.5.3 Lab - Other Useful Commands
 * When does the password expire?
  * 30.3.2020
 * What is the local drive letter assigned to the connected resource?
