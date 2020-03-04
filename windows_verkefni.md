@@ -163,7 +163,17 @@ when the computer boots?
 ### 11.4.2.7 Lab - File System Commands gummi
 
 ### 11.4.3.2 Lab - Disk CLI Commands agust
- * gera með aðra tölvu
+ * What is the option to fix errors on the drive
+   * type chkdsk /F
+ * What is the option to locate bad sectors and recover readable information
+   *  type chkdsk /R
+ * What happened? Explain
+   * when you type the command it will exam all the files in the c drive
+ * What is the file system of the drive 
+   * it will check the system when it restarts
+ * What option is used to determine the maximum number of bytes that the volume can be shrink by
+   * it depends on how much space you have on your disk
+ 
 
 ### 11.4.4.2 Lab - Task and System CLI Commands eg
 
